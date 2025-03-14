@@ -64,12 +64,11 @@
   <a href="https://github.com/abdulkadirgungor86/">
     <img src="dot-net-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
   </a>
-</div>
-  
+</div>  
 <br />  
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkadirgungor86&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkadirgungor86)
 
 <br />  
 <br />

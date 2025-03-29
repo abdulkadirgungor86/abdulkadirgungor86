@@ -96,9 +96,8 @@
 <br />
 <br />
 
-<a href="https://abdulkadirgungor86.github.io/projects/"></a>
+<a href="https://abdulkadirgungor86.github.io/projects/"> &nbsp; </a>
 
-<br />
 <br />
 <div id="bottom" align="center">
   <a href="https://github.com/abdulkadir-gungor/">

@@ -96,6 +96,10 @@
 <br />
 <br />
 
+<a href="https://abdulkadirgungor86.github.io/projects/"></a>
+
+<br />
+<br />
 <div id="bottom" align="center">
   <a href="https://github.com/abdulkadir-gungor/">
     <img src="coder.gif" width="600" height="300"/>

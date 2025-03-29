@@ -96,7 +96,7 @@
 <br />
 <br />
 
-<a href="https://abdulkadirgungor86.github.io/projects/"> &nbsp; </a>
+<a href="https://abdulkadirgungor86.github.io/projects/"></a>
 
 <br />
 <div id="bottom" align="center">

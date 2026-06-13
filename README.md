@@ -35,6 +35,9 @@
  ### :hammer_and_wrench: Languages and Tools :
 <div>
   <a href="https://github.com/abdulkadirgungor86/">
+    <img src="Cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://github.com/abdulkadirgungor86/">
     <img src="csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   </a>
   <a href="https://github.com/abdulkadirgungor86/">

@@ -9,7 +9,7 @@
   <div id="user_name">  <b>@abdulkadirgungor86</b> </div>
   <br />
   <div id="user_badges">
-    <a href="mailto:abdulkadirgungor.86@outlook.com">
+    <a href="mailto:a.kadir.gungor.86@gmail.com">
       <img src="E--Mail-blue.svg" alt="E-mail Badge"/>
     </a>
     <a href="https://tr.linkedin.com/in/abdulkadir-g%C3%BCng%C3%B6r?trk=people-guest_people_search-card">

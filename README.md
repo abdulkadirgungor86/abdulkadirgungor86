@@ -27,7 +27,7 @@
 ### :man_technologist: About Me : 
 - 👋 Hi, I’m @abdulkadirgungor86
 - 👀 I’m interested in "C#" , ".NET Core MVC", "Architecture Patterns(N-Tier and Onion)", "SOLID Principles", "AI" and "Robotics"
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React, AI and Machine Learning, Robotics
 - 💞️ I’m looking to collaborate on "C++","C#",".NET Core MVC","Machine Learning and AI" and "Robotics"
 - 📫 How to reach me "a.kadir.gungor.86@gmail.com"
 <br />
